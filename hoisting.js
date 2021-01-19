@@ -14,6 +14,8 @@ function crazy() {
   thisIsCrazy();
 }
 
+var name = "Cricky";
+
 function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
